@@ -1,0 +1,15 @@
+<header class="page-wrapper">
+    <div class="about-head">
+        <div class="img-wrapper">
+            {% if site.logo %}
+                <img src="/assets/img/aboutimg.jpg" class="about-img animated fadeInDown" alt="{{ site.title }}">
+            {% endif %}
+        </div>
+        <div class="bio-wrapper">
+            <h1 class="about-name">{{ site.title }}</h1>
+            <p class="about-description" itemprop="description">{{ site.description }}</p>
+            <p class="about-description resume-btn"><a href="/assets/pdf/Akshey%20Sigdel%20Resume.pdf" target="blank"><i class="fas fa-arrow-circle-down"></i> Get Resume</a></p>
+        </div>
+        <br style="clear:both;"/>
+    </div>
+</header><!-- /.masthead -->

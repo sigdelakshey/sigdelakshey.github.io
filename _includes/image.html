@@ -1,0 +1,9 @@
+<figure class="image">
+    <img src="{{ include.url }}" alt="{{ include.description }}" class="{% if include.image_center %}image-center{% endif %}">
+    <figcaption>{{ include.description }}</figcaption>
+    {% if include.source %}
+        <figcaption class="source">
+            Source: <a href="{{include.source}}">{{include.source}}</a>
+        </figcaption>
+    {% endif %}
+</figure>

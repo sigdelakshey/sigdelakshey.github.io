@@ -1,0 +1,18 @@
+# Sample Authors
+# Remove file or replace with your own
+
+sigdelakshey:
+  name: Akshey Sigdel
+  picture: /assets/img/aboutimg.jpg
+  email: aksigdel@gmail.com
+  address: Biratnagar, Nepal
+  twitter: https://twitter.com/sigdelakshey
+  links:
+    - title:
+      url:
+      icon:
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone

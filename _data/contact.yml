@@ -1,0 +1,16 @@
+
+- title: Email
+  url: mailto:aksigdel@gmail.com
+  icon: fa fa-envelope
+
+- title: Twitter
+  url: https://twitter.com/sigdelakshey
+  icon: fab fa-twitter
+
+- title: Github
+  url: https://github.com/Sigdelakshey
+  icon: fab fa-github
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/sigdelakshey/
+  icon: fab fa-linkedin

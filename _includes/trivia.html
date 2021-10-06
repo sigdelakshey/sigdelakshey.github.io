@@ -1,0 +1,12 @@
+<span id="trivia-id-{{include.identifier}}" class="trivia-button">{{ include.identifier }}</span>
+<div id="trivia-content-{{include.identifier}}" class="trivia-content inactive">
+    {% if include.heading %}
+        <div class="trivia-title">
+            <h3>{{include.heading}}</h3>
+        </div>
+    {% endif %}
+    <p class="trivia-message">
+        {{ include.content }}
+    </p>
+</div>
+

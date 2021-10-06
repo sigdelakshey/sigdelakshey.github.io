@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="page-wrapper card">
+      {%- for contact in site.data.contact -%}
+        {%- if contact.url contains "://" -%}
+          {%- assign url = contact.url -%}
+        {%- else -%}
+          {%- assign url = contact.url | relative_url -%}
+        {%- endif -%}
+        <div class="contact-item">
+            <span class="contact-icon">
+                <a class="social-icon" href="{{ url }}"><i class="{{ contact.icon | default: 'fas fa-link' }} fa-3x" title="{{ contact.title }}"></i></a>
+            </span>
+            <span class="contact-name">
+                <p><a href="{{ url }}">{{ contact.title }}</a></p>
+            </span>
+        </div>
+      {%- endfor -%}
+      <br style="clear:both;"/>
+</div>

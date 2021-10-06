@@ -1,0 +1,114 @@
+// ---
+// ---
+
+// @charset "utf-8";
+
+// @import "so-simple/functions";
+// @import "so-simple/variables";
+// @import "so-simple/notices";
+
+// :root {
+//     /* Colors */
+//     --base-color: #eaeaea ;
+//     --text-color: #eaeaea ;
+//     --accent-color: #8e93a1;
+//     --nav-color: #aeaeae ;
+//     --background-color: #292a2d ;
+//     --nav-background-color: mix(#000, var(--background-color), 30%) ;
+//     --code-background-color: mix(#000, var(--background-color), 15%) ;
+//     --border-color: tint(var(--base-color), 80%) ;
+
+//     --primary-color: white ;
+//     --success-color: rgb(48, 209, 88) ;
+//     --warning-color: rgb(255, 214, 10) ;
+//     --danger-color: rgb(255, 69, 58) ;
+//     --info-color: rgb(100, 210, 255) ;
+
+//     --base00: #1d1d21;
+//     --base01: #303035;
+//     --base02: #3c3f42;
+//     --base03: #646c74;
+//     --base04: #768799;
+//     --base05: #eeffff;
+//     --base06: #eeffff;
+//     --base07: #ffffff;
+//     --base08: #f07178;
+//     --base09: #f78c6c;
+//     --base0a: #ffcb6b;
+//     --base0b: #c3e88d;
+//     --base0c: #89ddff;
+//     --base0d: #82aaff;
+//     --base0e: #c792ea;
+//     --base0f: #ff5370;
+// }
+
+// [data-theme="light"] {
+//     /* Colors */
+//     --base-color: #404040 ;
+//     --text-color: #404040 ;
+//     --accent-color: #404040 ;
+//     --nav-color: #fff ;
+//     --background-color: #fff ;
+//     --nav-background-color: #404040 ;
+//     --code-background-color: tint(var(--base-color), 95%) ;
+//     --border-color: tint(var(--base-color), 80%) ;
+
+//     --primary-color: #fff ;
+//     --success-color: #34c759 ;
+//     --warning-color: #ffcc00 ;
+//     --danger-color: #ff3b30 ;
+//     --info-color: #5ac8fa ;
+
+//     /* Syntax highlighting (base16) colors */
+//     --base00: #fafafa ;
+//     --base01: #073642 ;
+//     --base02: #586e75 ;
+//     --base03: #657b83 ;
+//     --base04: #839496 ;
+//     --base05: #586e75 ;
+//     --base06: #eee8d5 ;
+//     --base07: #fdf6e3 ;
+//     --base08: #dc322f ;
+//     --base09: #cb4b16 ;
+//     --base0a: #b58900 ;
+//     --base0b: #859900 ;
+//     --base0c: #2aa198 ;
+//     --base0d: #268bd2 ;
+//     --base0e: #6c71c4 ;
+//     --base0f: #d33682 ;
+// }
+
+// /* Colors */
+// $base-color: var(--base-color);
+// $text-color: var(--text-color);
+// $accent-color: var(--accent-color);
+// $nav-color: var(--nav-color);
+// $background-color: var(--background-color);
+// $nav-background-color: var(--nav-background-color);
+// $code-background-color: var(--code-background-color);
+// $border-color: var(--border-color);
+
+// $primary-color: var(--primary-color);
+// $success-color: var(--success-color);
+// $warning-color: var(--warning-color);
+// $danger-color: var(--danger-color);
+// $info-color: var(--info-color);
+
+// $base00: var(--base00);
+// $base01: var(--base01);
+// $base02: var(--base02);
+// $base03: var(--base03);
+// $base04: var(--base04);
+// $base05: var(--base05);
+// $base06: var(--base06);
+// $base07: var(--base07);
+// $base08: var(--base08);
+// $base09: var(--base09);
+// $base0a: var(--base0a);
+// $base0b: var(--base0b);
+// $base0c: var(--base0c);
+// $base0d: var(--base0d);
+// $base0e: var(--base0e);
+// $base0f: var(--base0f);
+
+// @import "so-simple/skin";
