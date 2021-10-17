@@ -30,7 +30,7 @@ headtitle: About
 
 ## Research Interests
 
-I am interested in **Machine Learning**, particularly **Computer Vision** but also **Natural Language Processing**. I aim to leverage Machine Learning techniques for social good applications that can have wide societal impact. Following is a list of areas that I have [conducted research](/publications.md) on or would like to work on in the near future:
+I am interested in **Machine Learning**, particularly **Computer Vision** but also **Natural Language Processing**. I aim to leverage Machine Learning techniques for social good applications that can have wide societal impact. Following is a list of areas that I have conducted research on or would like to work on in the near future:
 
 - **Visual Scene Understanding:** Developing computer vision algorithms to make a computer understand visual scenes. Sources for such scenes can be (but not limited to) photograph, videos, satellite imagery, medical images, etc.  
 
