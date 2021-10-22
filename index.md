@@ -62,7 +62,7 @@ Assisted professor in his lab work. Conducted OOP lab for 1st & 2nd year class f
 
 ## Notable Projects
 
-- [**Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis* (**Ongoing**)](/assets/pdf/IVSP%20Paper.pdf)
+- **Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis* (**Ongoing**)
 
 A research project that utilizes computer vision and deep learning techniques like semantic segmentation and image classification to identify the regions in satellite images that are affected by natural disasters like floods.
 
