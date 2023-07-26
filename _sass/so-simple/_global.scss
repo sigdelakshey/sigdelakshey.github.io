@@ -67,7 +67,7 @@
 
 .masthead {
   @include clearfix;
-  margin-bottom: 3em;
+  margin-bottom: 0.5em;
   text-align: center;
 }
 
@@ -83,34 +83,35 @@
 }
 
 .site-description {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   font-family: $subtitle-font-family;
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 400;
 }
 
 .site-logo {
+  margin-top: 0.5em;
   display: inline-block;
   position: relative;
   z-index: 10;
 }
 
 .site-logo-img {
-  width: $site-logo-width;
-  height: $site-logo-height;
+  width: 1.5 * $site-logo-width;
+  height: 1.5 * $site-logo-height;
   border: 5px solid;
-  border-radius: $site-logo-width;
+  border-radius: 1.5 * $site-logo-width;
 
   @include breakpoint($medium) {
-    width: 1.5 * $site-logo-width;
-    height: 1.5 * $site-logo-height;
-    border-radius: 1.5 * $site-logo-width;
-  }
-
-  @include breakpoint($large) {
     width: 2 * $site-logo-width;
     height: 2 * $site-logo-height;
     border-radius: 2 * $site-logo-width;
+  }
+
+  @include breakpoint($large) {
+    width: 2.5 * $site-logo-width;
+    height: 2.5 * $site-logo-height;
+    border-radius: 2.5 * $site-logo-width;
   }
 }
 

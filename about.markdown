@@ -7,27 +7,39 @@ headtitle: About
 
 <br />
 
-## Work
+# Education
+
+- **Masters in Computer Science** - [Boise State University](https://www.boisestate.edu/) (Jan 2023 - Present)
+  - GPA: 4.0
+
+- **Bachelors in Computer Engineering** - [Institute of Engineering, ERC](/https://www.ioepc.edu.np/) (Nov 2017 - May 2022)
+  - Graduated as the **ERC BCT Batch Topper** with aggregate percentage of **74.57%** 
+
+---
+<br />
+
+# Experience
 
 ### Current
+- **Graduate Research and Teaching Assistant at [Boise State University]** (Jan 2023 - Present)
+  - Conducting research on Blockchain applications in Medical sector.
+  - Utilizing communication and coaching skills to assist and guide undergraduate students in understanding the basics of
+    programming. 
 
-- **Machine Learning INTERN at [Cotiviti Nepal Ptv. Ltd.]** (June 2021- Oct 2021)
-  - Developed a recommendations engine prototype for an e-commerce site.
-  - Built predictive models to forecast sales and revenue of Fortune 1000 Health-Care company.
+
+### Previous
+
+- **Software Engineer Associate at [Fusemachines Nepal]** (Aug 2022 - Nov 2022)
+  - Course focused traineeship geared towards data science and engineering.
+  - Collaborated on project to make analysis and evaluationof Historical Weather Dataset using Apache Spark.
+  - Worked on API-ORM-Pandas project creating a custom dataset and analyzing the data with pandas and performing
+    transformation using ORM-API calls.
+  - Contributed to build a predictive model to forecast sales and revenue of Fortune 1000 Health-Care company.
 
 ---
 <br />
 
-## Education
-
-- **Bachelors in Computer Engineering** - [Institute of Engineering, ERC](/https://www.ioepc.edu.np/) (2017-2021)
-  - Graduated as the **Batch Topper** with aggregate percentage of **75.3%** (Expected)
-
-
-
----
-<br />
-
+<!---
 ## Research Interests
 
 I am interested in **Machine Learning**, particularly **Computer Vision** but also **Natural Language Processing**. I aim to leverage Machine Learning techniques for social good applications that can have wide societal impact. Following is a list of areas that I have conducted research on or would like to work on in the near future:
@@ -46,7 +58,8 @@ If you'd like to collaborate in any of the above, feel free to [reach out](/cont
 
 ---
 <br />
-
+-->
+<!---
 ## Teaching Experience
 
 I have some teaching experiences under my belt; having taught various computer science subjects to junoirs in Campus. Following is a list of my teaching experience: 
@@ -55,9 +68,6 @@ I have some teaching experiences under my belt; having taught various computer s
 <br />
 Lead a 2-week ML workshop organized by ACES-ERC (Association of Computer Engineering Students) for Freshers and 2nd year student. Covered topics such as Mathematical algorithms, modeling and also touched into Deep Learning.
 
-- **Data Strucures and Algorithms- Sagarmatha College, TU:** 
-<br />
-Taught DSA to a 2nd year Undergraduate class at Saragmath College as a intermediate substiute teacher.  
 
 - **OOP(C++) Lab Assistant:** 
 <br />
@@ -65,7 +75,9 @@ Assisted professor in his lab work. Conducted OOP lab for 1st & 2nd year class f
 
 ---
 <br />
+-->
 
+<!---
 ## Notable Projects
 
 - **Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis* (**Ongoing**)
@@ -82,7 +94,20 @@ A Computer Vision based software to classify and count the total number of Nepal
 
 ---
 <br />
+-->
 
-## Miscellaneous
+# Skills
+### Soft Skills
+- Public Speaking, Critical Thinking, Active Learning, Time Management, Teamwork, Adaptability, Accountability
 
-I also like to watch movies, animes and documentaries. I usually prefer to read non-fiction but I myself **Write** fiction stories.
+### Technical Skills
+- **Languages:** — Python, C++, C, SQL  
+- **Web Dev:** ​ — ​ HTML, CSS, JavaScript, React
+- **Frameworks:** — NumPy, Pandas, Matplotlib, Tensorflow, PyTorch 
+- **DataBase:** ​ — ​ MySQL, MongoDB
+- **Apache:** — Hadoop, Spark, Kafka
+- **Developer Tools:** ​ — ​ VS Code, Docker, Kubernetes, GIT, Chrome Dev
+
+
+### Click here to see [<u> Projects </u>](/blog/) 
+<br />

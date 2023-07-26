@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Traffic Monitoring using Computer Vision"
-categories: [Technical Writing]
+categories: [Technical]
 tags:
   - Deep Learning
   - Computer Vision
@@ -10,9 +10,9 @@ tags:
   - Learnings and Experience
 image:
   path: /assets/img/counting.gif
-  thumbnail: /assets/img/counting.gif
-share: True
-comments: True
+  thumbnail: /assets/img/traffic.png
+share: False
+comments: False
 ---
 
 *The following is an account of one of the projects I worked on in a Hackathon (KU HackFest). It outlines the problem we were trying to solve, the techincal details behind the system we developed and my experience and learning from the project.*

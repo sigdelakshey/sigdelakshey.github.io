@@ -1,5 +1,5 @@
 .about-head {
-
+  margin-top: 0.5em;
 }
 
 .about-img { width: 80px; height: 80px; border-radius: 80px; border-color: #252a34; }
@@ -24,9 +24,9 @@
 
 
 .about-description { margin: 0.5em 0 0 0; font-family: "Raleway", sans-serif; font-weight: 400; }
-.about-description { font-size: 10px; }
-@media screen and (min-width: 340px) { .about-description { font-size: calc(10px + 0 * ((100vw - 340px) / 960)); } }
-@media screen and (min-width: 640px) { .about-description { font-size: 14px; } }
+.about-description { font-size: 12px; }
+@media screen and (min-width: 340px) { .about-description { font-size: calc(14px + 0 * ((100vw - 340px) / 960)); } }
+@media screen and (min-width: 640px) { .about-description { font-size: 16px; } }
 @media screen and (min-width: 1280px) { .about-description { font-size: 18px; } }
 
 .resume-btn {
